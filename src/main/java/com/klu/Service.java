@@ -28,6 +28,7 @@ public class Service {
 	}
 
 	
+	/*
 	public String deleteData(int id) {
 		if (r1.existsById(id)) {
 			r1.deleteById(id);
@@ -36,5 +37,6 @@ public class Service {
 			return "Product not found";
 		}
 	}
+	*/
 	
 }
